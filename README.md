@@ -2,7 +2,7 @@
 
 > *Just a high schooler sharing robot stuff — builds, code, designs, and WRO competition things.*
 
-This is the source code for [robotrizz.com](https://robotrizz.com). If you see anything you like — code, ideas, whatever — feel free to take it. No need to ask.
+This is the source code for [https://haing2811.github.io/robotrizz/robotrizz.html](https://haing2811.github.io/robotrizz/robotrizz.html). If you see anything you like — code, ideas, whatever — feel free to take it. No need to ask.
 
 ---
 
